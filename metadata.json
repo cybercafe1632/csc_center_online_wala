@@ -1,0 +1,6 @@
+{
+  "name": "CSC CENTER ONLINE WALA",
+  "description": "Complete CSC Business Management, Customer Portal, Employee Management, Accounting, WhatsApp & Marketing System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
